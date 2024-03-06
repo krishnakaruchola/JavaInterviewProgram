@@ -1,0 +1,6 @@
+//git basic commands
+git init  ~ to initialize the directory
+git add . ~ to add all file present in the directory
+git commit -m "text messsage to get to know information when commit"
+git remote add origin https://github.com/krishnakaruchola/JavaInterviewProgram.git
+git push -u origin main
